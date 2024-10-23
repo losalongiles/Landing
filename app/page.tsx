@@ -71,7 +71,7 @@ export default function Component() {
             priority
           />
         </div>
-        <div className="bg-yellow-400 h-1/4 md:w-1/3 md:h-full flex items-center justify-center">
+        <div className="bg-[#E8E8E8] h-1/4 md:w-1/3 md:h-full flex items-center justify-center">
           <Eyes />
         </div>
       </div>
